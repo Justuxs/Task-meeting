@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "Name": "Meeting",
+    "ResponsiblePerson": 1,
+    "Description": "My meeting",
+    "Category": "Hub",
+    "Type": "Live",
+    "StartDate": "Sep 13, 2022, 10:50:14 PM",
+    "EndDate": "Sep 12, 2022, 10:50:14 PM",
+    "Participants": [
+      {
+        "date": "Sep 13, 2022, 1:44:15 PM",
+        "PersonID": 4
+      }
+    ]
+  }
+]
